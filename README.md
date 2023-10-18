@@ -14,8 +14,6 @@
 
 The Traffic Accident Detection and Alert System is a computer vision project designed to detect traffic accidents in real-time from images or video streams. It utilizes deep learning techniques, specifically YOLOv5 and YOLOv8, to identify accidents and promptly alert the authorities for swift response. This project was developed as a graduation project in Faculty of Computer and Information Science by Tarek Ashraf.
 
-![Demo](https://drive.google.com/file/d/1iYvTL4Wi1t0tj0xrokqYTnnlQjPqNftf/view?usp=sharing)
-
 ## Features
 
 - Real-time traffic accident detection.
