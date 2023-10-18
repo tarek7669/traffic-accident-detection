@@ -1,11 +1,4 @@
-# trafiic-accident-detection
-
-Certainly! Below is an example of a `README.md` file for your computer vision project that detects traffic accidents and alerts the authorities.
-
-
 # Traffic Accident Detection and Alert System
-
-![Traffic Accident Detection](project_image.png)
 
 ## Table of Contents
 
@@ -16,13 +9,12 @@ Certainly! Below is an example of a `README.md` file for your computer vision pr
 - [Usage](#usage)
 - [Training](#training)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
-The Traffic Accident Detection and Alert System is a computer vision project designed to detect traffic accidents in real-time from images or video streams. It utilizes deep learning techniques, specifically YOLOv5 and YOLOv8, to identify accidents and promptly alert the authorities for swift response. This project was developed as a graduation project in [College/University Name] by [Your Name].
+The Traffic Accident Detection and Alert System is a computer vision project designed to detect traffic accidents in real-time from images or video streams. It utilizes deep learning techniques, specifically YOLOv5 and YOLOv8, to identify accidents and promptly alert the authorities for swift response. This project was developed as a graduation project in Faculty of Computer and Information Science by Tarek Ashraf.
 
-![Demo](demo.gif)
+![Demo](https://drive.google.com/file/d/1iYvTL4Wi1t0tj0xrokqYTnnlQjPqNftf/view?usp=sharing)
 
 ## Features
 
@@ -46,7 +38,7 @@ The Traffic Accident Detection and Alert System is a computer vision project des
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/traffic-accident-detection.git
+   git clone https://github.com/tarek7669/traffic-accident-detection.git
    cd traffic-accident-detection
    ```
 
@@ -63,7 +55,7 @@ The Traffic Accident Detection and Alert System is a computer vision project des
 1. Launch the accident detection system:
 
    ```bash
-   python detect_accidents.py
+   python v8_test.ipynb.py
    ```
 
 2. Provide input images or video streams for real-time detection.
@@ -78,11 +70,7 @@ The Traffic Accident Detection and Alert System is a computer vision project des
 
 ## Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests to enhance the project. Please follow the [contributing guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance the project.
 ```
 
 Make sure to customize this `README.md` file with your project's specific details, including project name, author, and links to YOLOv5 and YOLOv8 repositories. You may also want to include information on project dependencies, usage, and licensing.
