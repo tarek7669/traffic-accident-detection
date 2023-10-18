@@ -2,7 +2,7 @@
 
 Certainly! Below is an example of a `README.md` file for your computer vision project that detects traffic accidents and alerts the authorities.
 
-```markdown
+
 # Traffic Accident Detection and Alert System
 
 ![Traffic Accident Detection](project_image.png)
